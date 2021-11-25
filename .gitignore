@@ -1,0 +1,8 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.idea/
+wrangler.toml
